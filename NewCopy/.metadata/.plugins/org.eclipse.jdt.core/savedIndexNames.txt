@@ -1,4 +1,0 @@
-INDEX VERSION 1.132+C:\Users\Gusst\Documents\workspace\Projecct\please\.metadata\.plugins\org.eclipse.jdt.core
-1865797976.index
-3510433637.index
-1304753851.index
